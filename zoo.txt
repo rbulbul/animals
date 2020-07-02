@@ -1,4 +1,6 @@
 1- Seahorse
 2- Squirrel
 3- Coyote
+4- Jellyfish
+5- Hippo
 :)
